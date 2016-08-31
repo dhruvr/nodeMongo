@@ -1,0 +1,9 @@
+{
+  "name": "thirdRun",
+  "description": "testing node",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "mongoose": "^4.5.10",
+    "util": "^0.10.3"
+  }
+}
